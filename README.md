@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Mallik Vinukonda  
 
-<!--
-**Mallik-vinukonda/Mallik-vinukonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Full-Stack Developer | ⚡ AI/ML Enthusiast | 🌍 Open Source Contributor  
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: **AutoHireX – AI Resume Screener**  
+- 🌱 Learning: **System Design, AI Agents, Web3**  
+- 💡 Interested in: Scalable Apps, AI-powered Solutions, Open Source  
+- 🎯 Goal: Crack **Amazon SDE Role** 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 Connect With Me  
+- [LinkedIn](https://www.linkedin.com/in/mallik-vinukonda/)  
+- [Portfolio](https://mallik-vinukonda.github.io/)  
+- [Email](mailto:mallikvinukonda@gmail.com)  
+
+---
+
+## 📌 Featured Projects  
+
+---
